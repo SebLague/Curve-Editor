@@ -6,7 +6,7 @@ using UnityEngine;
 public class Path {
 
     [SerializeField, HideInInspector]
-    public List<Vector2> points;
+    List<Vector2> points;
 
     public Path(Vector2 centre)
     {
