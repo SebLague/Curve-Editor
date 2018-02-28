@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curve editor", "Curve editor.csproj", "{ED9907AB-99E3-59F6-64EE-8881AD53DC52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curve editor.Editor", "Curve editor.Editor.csproj", "{4FBBF3FE-465F-F737-83D8-F24EBF9AE63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9907AB-99E3-59F6-64EE-8881AD53DC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9907AB-99E3-59F6-64EE-8881AD53DC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9907AB-99E3-59F6-64EE-8881AD53DC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9907AB-99E3-59F6-64EE-8881AD53DC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FBBF3FE-465F-F737-83D8-F24EBF9AE63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBBF3FE-465F-F737-83D8-F24EBF9AE63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBBF3FE-465F-F737-83D8-F24EBF9AE63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBBF3FE-465F-F737-83D8-F24EBF9AE63B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
